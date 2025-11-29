@@ -57,6 +57,6 @@ Before you begin, ensure you have met the following requirements:
     npm run dev
     ```
 
-5.  **Open the app:**
+5.  **Online Apps:**
 
-    Visit [http://localhost:3000/tasks](http://localhost:3000/tasks) in your browser.
+    Visit the link: [https://kuystudio-frontend-rendra.vercel.app/tasks](https://kuystudio-frontend-rendra.vercel.app/tasks)
